@@ -2,7 +2,7 @@
 ### Desenvolvedor Full-Stack 👨💻
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Guilhermeleite2334@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([INSIRA_SEU_LINKEDIN_AQUI])
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([(https://www.linkedin.com/in/guilhermeleitechagas/)])
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Gui-leite233)
 [![Portfolio](https://img.shields.io/badge/Portfolio-100000?style=for-the-badge&logo=user&logoColor=white)](https://gui-leite233.github.io/)
 
@@ -11,7 +11,7 @@
 ## 🚀 Sobre Mim
 
 🔧 Desenvolvedor full-stack com experiência em projetos colaborativos e pessoais, aplicando **boas práticas de programação** e **metodologias ágeis**.  
-💡 Especializado em: Laravel, JavaScript, Java, Ollama, Docker,APIs REST e microsserviços.  
+💡 Especializado em: Laravel, JavaScript, Java, Ollama, Docker, APIs REST e microsserviços.
 🌍 **Fluente em inglês** | **Nativo em português**.  
 
 ---
