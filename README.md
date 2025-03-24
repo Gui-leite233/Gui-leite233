@@ -1,75 +1,68 @@
-# Guilherme Leite da Silva Chagas | Desenvolvedor Full-Stack
+# Guilherme Leite da Silva Chagas  
+### Desenvolvedor Full-Stack 👨💻
 
-Desenvolvedor de software apaixonado com experiência significativa em projetos full-stack. Especializado em soluções práticas, aplicando boas práticas de programação e metodologias ágeis em projetos colaborativos e pessoais.
-
-## 🚀 Habilidades Técnicas
-
-### Linguagens & Frameworks
-- **Backend**: Laravel, Java, C
-- **Frontend**: JavaScript, HTML, CSS, Bootstrap
-- **Banco de Dados**: MySQL, MariaDB
-
-### Ferramentas & Tecnologias
-- Docker
-- GitHub
-- XAMPP
-- WSL
-- Testes unitários
-- Migrações de banco de dados
-- API RESTful e microsserviços
-- Padrão MVC
-
-## 💼 Experiência Profissional
-
-### Instituição Federal do Paraná
-**Desenvolvedor Full-Stack** | Agosto 2024 - Presente
-
-- Desenvolvimento, manutenção e suporte da aplicação "Trilhas"
-- Elaboração e análise de relatórios semanais com indicadores de desempenho
-- Organização e condução de reuniões para alunos
-- Participação ativa em eventos institucionais para promoção de projetos estratégicos
-
-## 🛠️ Projetos Destacados
-
-### Projeto Trilhas
-- Aplicação institucional com foco em desenvolvimento educacional
-- [GitHub Repository](https://github.com/Gui-leite233/ProjetoTrilhas)
-
-### Gerencia-PC
-- Sistema para cadastro e gerenciamento de computadores
-- Desenvolvido em Java com Maven
-- Interface responsiva com Bootstrap e JavaScript
-- Implementação completa de operações CRUD
-- Arquitetura MVC com versionamento via migrações
-- [GitHub Repository](https://github.com/Gui-leite233/projeto-GerenciarPc)
-
-### App-Bio
-- Aplicação web desenvolvida com Laravel
-- Ambiente dockerizado com Docker Compose
-- Interface responsiva integrada com Bootstrap e JavaScript
-- Migrações para versionamento do banco de dados
-- [GitHub Repository](https://github.com/Gui-leite233/app-bio)
-
-## 🎓 Formação e Certificações
-
-- **Técnico em Informática** | Instituto Federal do Paraná
-- **Curso de Inglês** | Kings English School
-
-## 🌐 Idiomas
-
-- **Inglês**: Fluente
-- **Português**: Nativo
-
-## 📫 Entre em Contato
-
-Sinta-se à vontade para conectar-se comigo para discussões sobre desenvolvimento de software, oportunidades de colaboração ou apenas para trocar conhecimentos sobre tecnologia!
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Guilhermeleite2334@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([INSIRA_SEU_LINKEDIN_AQUI])
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Gui-leite233)
+[![Portfolio](https://img.shields.io/badge/Portfolio-100000?style=for-the-badge&logo=user&logoColor=white)](https://gui-leite233.github.io/)
 
 ---
 
-*Este README foi criado com base no currículo profissional de Guilherme Leite da Silva Chagas, destacando suas habilidades técnicas, projetos e experiência como desenvolvedor full-stack.*[1]
+## 🚀 Sobre Mim
 
-Citations:
-[1] https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/57464988/4945d525-3b86-452f-8053-46cf776defad/Guilherme-Leite-da-Silva-Chagas-Curriculo.pdf
+🔧 Desenvolvedor full-stack com experiência em projetos colaborativos e pessoais, aplicando **boas práticas de programação** e **metodologias ágeis**.  
+💡 Especializado em: Laravel, JavaScript, Java, Ollama, Docker,APIs REST e microsserviços.  
+🌍 **Fluente em inglês** | **Nativo em português**.  
 
 ---
-Answer from Perplexity: pplx.ai/share
+
+## 🛠 Habilidades Técnicas
+
+| **Backend**        | **Frontend**      | **Banco de Dados**       | **DevOps**               |
+|--------------------|-------------------|--------------------------|--------------------------|
+| Laravel            | JavaScript        | MySQL                    | Docker                   |
+| Node.js/Express    | HTML/CSS          | Migrations               | XAMPP                    |
+| Java               | Bootstrap         | MongoDB                  | WSL                      |
+| C                  | Vue               |                          |                          |
+
+**Outros**: Testes unitários, GitHub, Configuração de rotas (Laravel), PHPMailer.
+
+---
+
+## 📂 Projetos Destacados
+
+### **Gerencia-PC** [🔗](https://github.com/Gui-leite233/projeto-GerenciarPc)
+- Sistema de gerenciamento de computadores com **CRUD completo** e autenticação segura.
+- **Tecnologias**: Java, Maven, MySQL, Bootstrap, Docker.
+- **Destaque**: Integração com PHPMailer para envio de e-mails e painel admin com API Moonshine.
+
+### **Projeto Trilhas** [🔗](https://github.com/Gui-leite233/ProjetoTrilhas)
+- Plataforma educacional com dashboards dinâmicos e arquitetura MVC.
+- **Tecnologias**: Laravel, Docker, API Moonshine.
+
+### **IA-Project** [🔗](https://github.com/fernandofps20/ia-project)
+- API REST para processamento de linguagem natural usando modelo Ollama.
+- **Tecnologias**: Node.js, Express, Docker, MySQL.
+
+---
+
+## 📊 Estatísticas do GitHub
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gui-leite233&show_icons=true&theme=radical)](https://github.com/Gui-leite233)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gui-leite233&layout=compact&theme=radical)](https://github.com/Gui-leite233)
+
+![Visitas](https://komarev.com/ghpvc/?username=Gui-leite233&color=blueviolet)
+
+---
+
+## 📜 Certificações
+- 🎓 **Técnico em Informática** | Instituto Federal do Paraná  
+- 📜 **Inglês Avançado** | Kings English School
+
+---
+
+## 📩 Contato
+
+**Vamos colaborar?**  
+💌 **Email**: Guilhermeleite2334@gmail.com  
+🔗 **Portfólio Completo**: [Acesse aqui](https://github.com/Gui-leite233?tab=repositories)  
