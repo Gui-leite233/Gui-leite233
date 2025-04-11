@@ -23,6 +23,7 @@
 | Node.js/Express    | HTML/CSS          | Migrations               | XAMPP                    |
 | Java               | Bootstrap         | MongoDB                  | WSL                      |
 | Ollama             | Vue               |                          |                          |
+| NestJS             |                   |                          |                          |
 
 **Outros**: Testes unitários, GitHub, Configuração de rotas (Laravel), PHPMailer.
 
