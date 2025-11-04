@@ -22,7 +22,7 @@
 | Laravel            | JavaScript        | MySQL                    | Docker                   |
 | Node.js/Express    | HTML/CSS          | Migrations               | XAMPP                    |
 | Java               | Bootstrap         | MongoDB                  | WSL                      |
-| Ollama             | Vue               |                          |                          |
+| Ollama             | Vue               | Prisma                   |                          |
 | NestJS             |                   |                          |                          |
 
 **Others**: 
