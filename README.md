@@ -23,7 +23,7 @@
 | Node.js/Express    | HTML/CSS          | Migrations               | XAMPP                    |
 | Java               | Bootstrap         | MongoDB                  | WSL                      |
 | Ollama             | Vue               | Prisma                   |                          |
-| NestJS             |                   |                          |                          |
+| NestJS             | NextJS            |                          |                          |
 | Redis              |                   |                          |                          |
 | BullMQ             |                   |                          |                          |
 
