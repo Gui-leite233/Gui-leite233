@@ -24,6 +24,9 @@
 | Java               | Bootstrap         | MongoDB                  | WSL                      |
 | Ollama             | Vue               | Prisma                   |                          |
 | NestJS             |                   |                          |                          |
+| Redis              |                   |                          |                          |
+| BullMQ             |                   |                          |                          |
+
 
 **Others**: 
 - Unit testing
